@@ -1,6 +1,6 @@
 # mac-adress-random-custom-changer-linux
 
-MAC Adress changer para linux mas se você não for um macaco você vai saber adaptar pra windows.
+MAC Adress changer para linux adaptavel para Windows.
 
 
 

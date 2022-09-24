@@ -4,10 +4,6 @@ MAC Adress changer para linux mas se você não for um macaco você vai saber ad
 
 
 
-http://www.twitter.com/mainjota 
-
-
-
 
 
 Pra que eu vou precisar trocar meu MAC Adress?

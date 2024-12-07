@@ -8,7 +8,7 @@ MAC Adress changer para linux adaptavel para Windows.
 
 Pra que eu vou precisar trocar meu MAC Adress?
 
-R. Segurança ou caso você tenha clicado no Grabber do amiguinho 😈
+R. Segurança ou caso você tenha clicado no Grabber do amiguinho 
 
 
 
